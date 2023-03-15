@@ -1,6 +1,4 @@
-### Hi there 👋
-
-⚡ Fun fact: Это студенты mirea
+###⚡ Fun fact: Это студенты МИРЭА
 
 ![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/Giga1.jpg)
 
