@@ -1,6 +1,6 @@
-⚡ Fun fact: Это студенты МИРЭА
 
-![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/Giga1.jpg)
+
+![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/work1.jpg)
 
 <!--
 **AndrewKom/AndrewKom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
