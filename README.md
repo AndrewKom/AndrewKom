@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡ Fun fact: Its ME
+
+![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/Giga.jpg)
+
 <!--
 **AndrewKom/AndrewKom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
