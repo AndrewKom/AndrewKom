@@ -1,4 +1,4 @@
-###⚡ Fun fact: Это студенты МИРЭА
+⚡ Fun fact: Это студенты МИРЭА
 
 ![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/Giga1.jpg)
 
