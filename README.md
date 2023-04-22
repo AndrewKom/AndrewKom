@@ -6,7 +6,7 @@ Hola, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 * ⚡  Must to work! I suggest you do the same.
 ---------------------------------------
 Student: Give your life for programming
----------------------------------------
+
 ![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/work1.jpg)
 
 
