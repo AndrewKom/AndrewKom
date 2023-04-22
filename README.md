@@ -13,7 +13,7 @@ Student: Give your life for programming
 <a href="https://www.github.com/AndrewKom" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AndrewKom?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
-==============================================================================================================================
+---------------------------------------
 
 ### Skills
 
@@ -25,13 +25,13 @@ src="https://img.shields.io/github/followers/AndrewKom?logo=github&style=for-the
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-==============================================================================================================================
+---------------------------------------
 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Kom_de_kom#4255" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AndrewKom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-==============================================================================================================================
+---------------------------------------
 
 ### Badges
 
