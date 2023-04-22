@@ -4,11 +4,11 @@ Hola, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 * 🌍  I'm based in Moscow
 * 🤝  I'm open to collaborating on mirea projects
 * ⚡  Must to work! I suggest you do the same.
-
+---------------------------------------
 Student: Give your life for programming
 ---------------------------------------
 ![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/work1.jpg)
----------------------------------------
+
 
 <a href="https://www.github.com/AndrewKom" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AndrewKom?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
