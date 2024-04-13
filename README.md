@@ -6,8 +6,6 @@ Hola, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 ---------------------------------------
 Student: Give your life for programming
 
-![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/work1.jpg)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
