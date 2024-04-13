@@ -8,6 +8,9 @@ Student: Give your life for programming
 
 ![alt text](https://github.com/AndrewKom/AndrewKom/blob/main/work1.jpg)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <a href="https://www.github.com/AndrewKom" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AndrewKom?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
