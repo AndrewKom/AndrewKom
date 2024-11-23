@@ -35,5 +35,5 @@ src="https://img.shields.io/github/followers/AndrewKom?logo=github&style=for-the
 <a href="http://www.github.com/AndrewKom"><img src="https://github-readme-stats.vercel.app/api?username=AndrewKom&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="AndrewKom's GitHub stats" /></a>
 
 
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/mister.diamand20/mister.diamand20/master/assets/thm_propic.png)
 
